@@ -10,10 +10,14 @@ _by **Kaylah Rodney**_
 
 **Github** is an online server where you store your snapshots from Git. 
 
+Be more specific
+
 ---
 ## Initial Setup
 
 **Cloud 9** and **Github** are both linked meaning they work with each other. First, you have to connect your cloud 9 repository to your Github repository. 
+
+Add more steps
 
 
 ---
@@ -42,7 +46,7 @@ check if your files are added or not added nto the staging area, so later on
  you can commit.this is also an optional command to view the history of the 
  things you have committed.To see which files are staged they would show up green.
  
- make sure you have the correct definitions
+ **make sure you have the correct definitions**
  
 
 
