@@ -10,14 +10,14 @@ _by **Kaylah Rodney**_
 
 **Github** is an online server where you store your snapshots from Git. 
 
-Be more specific
+**Be more specific**
 
 ---
 ## Initial Setup
 
 **Cloud 9** and **Github** are both linked meaning they work with each other. First, you have to connect your cloud 9 repository to your Github repository. 
 
-Add more steps
+**Add more steps**
 
 
 ---
@@ -29,7 +29,9 @@ Initializing Git = `git init` How you get your commands
 
 Repository = `repo` Where you store your files 
 
-After initializing git with `git init` you will have to go to the Github website and add a new repo onto your Github profile (give it a name and fill out the other information given).Then you go back to C9 and type the command line `git clone URL` in the bash terminal to clone the repo on to C9.
+After initializing git with `git init` you will have to go to the Github website and add a new repo onto your Github profile (give it a name and fill out the other information given).Then you go back to C9 and type the command line `git clone URL` in the bash terminal to clone the repo on to C9. 
+
+**Make sure you are giving the right steps and make sure the steps make sense**
 
 
 ---
